@@ -9,7 +9,7 @@ func main() {
 	const PI float64 = 3.1415
 	var raio = 3.2 //tipo float64 (inferred)
 
-	//forma reduzida
+	//forma reduzida de criar uma variavel
 	area := PI * m.Pow(raio, 2)
 	fmt.Println("A area da circunferencia é: ", area)
 
